@@ -91,8 +91,8 @@ Follow these instructions to get the project up and running on your local machin
 
 1.  **Clone the Repository**
     ```sh
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone [https://github.com/badalaryal11/ToDo_App--flutter](https://github.com/badalaryal11/ToDo_App--flutter)
+    cd ToDo_App--flutter
     ```
 
 2.  **Install Dependencies**
