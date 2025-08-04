@@ -9,9 +9,9 @@ The application is built following Clean Architecture principles and modern Flut
 ## 📸 Screenshots
 
 
-| Task List (Light) | Add/Edit Task | Task List (Dark) |
-| :---------------: | :-------------: | :--------------: |
-|   ![image](https://github.com/user-attachments/assets/c3edc27e-649b-4994-b038-7d94b4e9184a)   |   ![image](https://github.com/user-attachments/assets/bbdc7721-81aa-4354-b1e3-3a1eb8a7cb9f)    |  ![image](https://placehold.co/300x600/1a1a1a/FFFFFF?text=Task+List+Dark)  |
+| Task List (Light) 
+| :---------------: |
+|   ![image](https://github.com/user-attachments/assets/c3edc27e-649b-4994-b038-7d94b4e9184a) |   
 
 
 
